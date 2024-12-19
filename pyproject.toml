@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-stockxtracker"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "algoliasearch>=4.11.2",
+    "requests>=2.32.3",
+]
